@@ -1,14 +1,9 @@
 ---
-title: Organizers
+title: Organizzatori
 subtitle: ""
 header_type: hero
 header_img: assets/img/robot_puzlet.gif
 permalink: /organizers
-
-og_title: GROUND - Organizers
-og_description: advancing GROup UNderstanding and robots' aDaptive behavior
-og_type: website
-og_image: assets/img/robots_fix.png
 ---
 
 <section class="light">
@@ -66,35 +61,6 @@ og_image: assets/img/robots_fix.png
                 <div class="postcard__subtitle small">Ph.D. Student @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Sara is a PhD student in Cognitive Robotics, Interaction, and Rehabilitation Technologies. Her research aims to design an internal motivation to drive robots' behaviors adaptively and autonomously during a human-robot interaction. She believes equipping robots with their internal states would be helpful to create more personalized and natural interaction between humans and robots.</div>
-            </div>
-        </article>
-    </div>
-</section>
-
----
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/whisper.png" alt="wHiSPER" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">wHiSPER EU Project</h1>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">This workshop is supported by a Starting Grant from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme. G.A. No 804388, [wHiSPER](https://whisperproject.eu/)  </div>
-            </div>
-        </article>
-    </div>
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/genova_logo.png" alt="Genova" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Comune di Genova</h1>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">This workshop is supported by Comune di Genova (Liguria, Italy)<br><br><br><br></div>
             </div>
         </article>
     </div>
