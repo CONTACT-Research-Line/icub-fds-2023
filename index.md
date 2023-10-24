@@ -6,7 +6,7 @@ subtitle: "@ Festival Della Scienza 2023"
 
 defaults:
   - scope:
-      path: "assets/img/blobs"
+      path: "assets/blobs"
     values:
       image_col         : gallery
 
